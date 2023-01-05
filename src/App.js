@@ -5,7 +5,7 @@ import ToDo from './components/ToDo';
 function App() {
   return (
     <div>
-      {/*<Header />*/}      
+      <Header />      
       <ToDo />
     </div>
   );
